@@ -1,0 +1,14 @@
+{ "title": "Basic classes" }
+@cha:basicClasses
+
+This book is to test that we can control with headingLevelOffset that !! is for a section and not a chapter for example. 
+
+!!Object
+This a test: it should not be a chapter
+
+
+!!Object
+This a test: it should not be a chapter
+
+!!Object
+This a test: it should not be a chapter
